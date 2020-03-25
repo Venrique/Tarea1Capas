@@ -42,7 +42,6 @@
 	    <artifactId>thymeleaf</artifactId>
 	    <version>3.0.11.RELEASE</version>
 	</dependency>
-	
 	<!-- https://mvnrepository.com/artifact/org.postgresql/postgresql -->
 	<dependency>
 	    <groupId>org.postgresql</groupId>
